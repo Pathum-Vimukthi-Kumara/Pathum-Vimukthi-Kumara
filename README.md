@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Game development**
 
-- 👨‍💻 All of my projects are available at [pathumvimukthi.site](pathumvimukthi.site)
+- 👨‍💻 All of my projects are available at [pathumvimukthi.online](pathumvimukthi.online)
 
 - 📫 How to reach me **kpathum616@gmail.com**
 
