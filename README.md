@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently **learning Cybersecurity & Cloud Engineering**  
-- 💼 All my projects & blogs are at **[pathumvimukthi.online](https://pathumvimukthi.online)**  
+- 💼 All my projects & blogs are at **[pathumvimukthi.online](https://pathum-vimukthi-kumara.github.io/React-Portfolio1/)**  
 - 📫 Reach me at **kpathum616@gmail.com**  
 - 🏆 **Mission:** Craft the most innovative & fun code the world has ever seen.
 
