@@ -34,8 +34,7 @@
 [![Pathum's GitHub activity graph](https://readme-activity-graph.vercel.app/graph?username=pathum-vimukthi-kumara&area=true&custom_title=Contribution+Graph&hide_border=true)](https://github.com/pathum-vimukthi-kumara)
 
 ---
-
-## 🛠️ Languages & Tools
+🛠️ Languages & Tools
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
@@ -48,8 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="Photoshop"/>
 </p>
-
-## 💾 Databases
+💾 Databases
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL"/>
@@ -57,8 +55,7 @@
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="40" alt="MariaDB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" height="40" alt="Neo4j"/>
 </p>
-
-## 🚀 DevOps & Tools
+🚀 DevOps & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" alt="Kubernetes"/>
@@ -67,8 +64,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure"/>
 </p>
-
-## 🔐 Cybersecurity Tools
+🔐 Cybersecurity Tools
 <p align="center">
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="40" alt="Burp Suite"/>
   <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" height="40" alt="Metasploit"/>
@@ -76,9 +72,14 @@
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap"/>
 </p>
 
----
+🏢 Organizations
+<p align="center">
+  <a href="https://github.com/Cyber-Security-Project-Demo" target="_blank">
+    <img src="https://img.shields.io/badge/Cyber_Security_Project_Demo-181717?logo=github&logoColor=white" height="28"/>
+  </a>
+</p>
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pathum-vimukthi-635740277" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://facebook.com/pathum.vimukthi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" height="28"/></a>
@@ -86,10 +87,9 @@
   <a href="https://pathumvimukthi.online" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white" height="28"/></a>
 </p>
 
----
+✍️ Quote
 
-### ✍️ Quote
-> "Code is Poetry; Games are the playground of imagination."
+"Code is Poetry; Games are the playground of imagination."
 
 <p align="center">
   ⭐️ From <a href="https://github.com/pathum-vimukthi-kumara">Pathum Vimukthi Kumara</a>
