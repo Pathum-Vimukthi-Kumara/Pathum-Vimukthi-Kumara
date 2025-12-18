@@ -75,7 +75,7 @@
 🏢 Organizations
 <p align="center">
   <a href="https://github.com/Cyber-Security-Project-Demo" target="_blank">
-    <img src="https://img.shields.io/badge/Cyber_Security_Project_Demo-181717?logo=github&logoColor=white" height="28"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEcAPJPV89INlwJAJqSIpUozRxlgk9LmV-A&s" height="50" alt="Cyber Security Project Demo"/>
   </a>
 </p>
 
