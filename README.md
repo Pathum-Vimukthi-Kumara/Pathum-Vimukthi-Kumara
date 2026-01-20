@@ -21,7 +21,6 @@ Cybersecurity enthusiast and developer passionate about building secure, innovat
 - 💻 Building projects that combine **security, scalability, and innovation**
 - 🌐 Portfolio & Blog: **[pathumvimukthi.online](https://www.pathumvimukthi.online/)**
 - 📧 Contact: **pathum1016@gmail.com**
-- 🎯 Mission: Craft secure, impactful code that pushes boundaries
 
 ---
 
