@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=640&lines=Hi+%F0%9F%91%8B+I'm+Pathum+Vimukthi;Cybersecurity+Enthusiast+%7C+Developer" alt="Typing SVG"/>
@@ -41,7 +42,12 @@ Cybersecurity enthusiast and developer passionate about building secure, innovat
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,html,css,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,html,css,javascript,bash,java" />
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,dotnet" />
 </p>
 
 ### Databases & DevOps
@@ -51,7 +57,7 @@ Cybersecurity enthusiast and developer passionate about building secure, innovat
 
 ### Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,azure,arduino,unity,photoshop" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,arduino,unity,photoshop" />
 </p>
 
 ### Cybersecurity Arsenal
