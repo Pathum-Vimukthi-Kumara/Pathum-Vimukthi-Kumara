@@ -87,9 +87,6 @@ Cybersecurity enthusiast and developer passionate about building secure, innovat
   <a href="https://www.linkedin.com/in/pathum-vimukthi-635740277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/pathum.vimukthi" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="mailto:pathum1016@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
