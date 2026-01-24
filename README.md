@@ -16,8 +16,9 @@
 
 Cybersecurity enthusiast and developer passionate about building secure, innovative solutions. I specialize in penetration testing, secure application development, and exploring the intersection of security and technology.
 
-- 🔐 Currently mastering **Advanced Cybersecurity & Ethical Hacking**
-- 💻 Building projects that combine **security, scalability, and innovation**
+- 🔐 Currently mastering **Cybersecurity & Ethical Hacking**
+- 🤖 Exploring **AI/ML** for intelligent automation and security applications
+- 💻 Developing **Web & Mobile applications** with frameworks
 - 🌐 Portfolio & Blog: **[pathumvimukthi.online](https://www.pathumvimukthi.online/)**
 - 📧 Contact: **pathum1016@gmail.com**
 
