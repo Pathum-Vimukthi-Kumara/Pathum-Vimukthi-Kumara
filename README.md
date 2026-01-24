@@ -19,7 +19,7 @@ Cybersecurity enthusiast and developer passionate about building secure, innovat
 - 🔐 Currently mastering **Cybersecurity & Ethical Hacking**
 - 🤖 Exploring **AI/ML** for intelligent automation and security applications
 - 💻 Developing **Web & Mobile applications** with frameworks
-- 🌐 Portfolio & Blog: **[pathumvimukthi.online](https://www.pathumvimukthi.online/)**
+- 🌐 Portfolio: **[pathumvimukthi.online](https://www.pathumvimukthi.online/)**
 - 📧 Contact: **pathum1016@gmail.com**
 
 ---
