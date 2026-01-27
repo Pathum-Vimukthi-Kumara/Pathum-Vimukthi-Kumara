@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Undergraduate Computer Engineering student at the University of Ruhuna with strong foundations in cloud native systems, cybersecurity . Passionate about building scalable, and secure platforms with experience across DevOps, microservices, security engineering, and competitive programming.
+Undergraduate Computer Engineering student at the University of Ruhuna with strong foundations in cloud native systems, cybersecurity. Passionate about building scalable, and secure platforms with experience across DevOps, microservices, security engineering, and competitive programming.
 
 - 🔐 Currently mastering **Cybersecurity & Ethical Hacking**
 - 🤖 Exploring **AI/ML** for intelligent automation and security applications
